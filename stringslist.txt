@@ -1,0 +1,25 @@
+http
+agent
+smtp
+.dll
+.exe
+select
+antivirus
+powershell
+AutoOpen
+password
+username
+admin
+HKEY
+C:
+mailto
+post
+system32
+wow64
+autorun
+login
+hello
+HKLM
+HKCU
+This Program
+temp
